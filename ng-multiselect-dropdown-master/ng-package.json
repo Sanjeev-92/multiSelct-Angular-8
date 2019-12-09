@@ -1,0 +1,6 @@
+{
+  "dest": "dist-lib",
+  "lib": {
+    "entryFile": "src/ng-multiselect-dropdown/src/public_api.ts"
+  }
+}
